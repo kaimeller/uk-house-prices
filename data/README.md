@@ -8,6 +8,6 @@
 	- TS017 - Household size - https://www.nomisweb.co.uk/datasets/c2021ts017
 	- TS054 - Tenure - https://www.nomisweb.co.uk/datasets/c2021ts054
 	- TS062 - NS-SeC - https://www.nomisweb.co.uk/datasets/c2021ts062
-- Earnings and hours worked, region by occupation by two-digit SOC: ASHE Table 3 (2023) - https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/regionbyoccupation2digitsocashetable3
+- Earnings and hours worked, place of residence by local authority: ASHE Table 8 (2023) - https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/placeofresidencebylocalauthorityashetable8
 - Indices of Deprivation (2025) - https://deprivation.communities.gov.uk/download-all
 - Local Authority District Lookups (2021) - https://geoportal.statistics.gov.uk/datasets/8c4d546ee4a446819b5ff39ff81cf009/explore
